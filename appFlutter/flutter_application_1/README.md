@@ -1,6 +1,9 @@
-# flutter_application_1
+# Nome do arquivo: flutter_application_1
 
-A new Flutter project.
+Projeto Flutter com o intuito de entrega de trabalho da Materia Mobile Developer
+
+Nome: Matheus Henrique da Silva
+RA:2102855
 
 ## Getting Started
 
